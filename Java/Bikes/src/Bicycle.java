@@ -2,8 +2,8 @@ public class Bicycle {
 
     // this is the base class
     // the Bicycle class has two fields
-    protected int gear; // change from website
-    protected int speed; // chnage from website
+    private int gear; // change from website
+    private int speed; // chnange from website
 
     public Bicycle(int gear, int speed) {
         this.gear = gear;
