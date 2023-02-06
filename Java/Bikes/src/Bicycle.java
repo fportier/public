@@ -1,9 +1,9 @@
 public class Bicycle {
 
-    // this is the base class
+    // base class
     // the Bicycle class has two fields
-    private int gear; // change from website
-    private int speed; // chnange from website
+    protected int gear; // change from website
+    protected int speed; // chnage from website
 
     public Bicycle(int gear, int speed) {
         this.gear = gear;

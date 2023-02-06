@@ -21,11 +21,11 @@ class MountainBike extends Bicycle {
 
     @Override
     public boolean equals(Object obj) {
+
         if (obj instanceof MountainBike) {
             MountainBike mb2 = (MountainBike) obj;
             return super.equals(mb2) && mb2.seatHeight == this.seatHeight;
         } else
             return false;
     }
-
 }
