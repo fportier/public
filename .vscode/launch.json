@@ -5,13 +5,6 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "type": "java",
-            "name": "App",
-            "request": "launch",
-            "mainClass": "App",
-            "projectName": "Debug_d12c0af9"
-        },
-        {
             "name": "Java",
             "type": "java",
             "request": "launch",
@@ -49,7 +42,7 @@
             "name": "App",
             "request": "launch",
             "mainClass": "App",
-            "projectName": "Debug_2c6c9015"
+            "projectName": "public_50360d1c"
         }
     ]
 }
